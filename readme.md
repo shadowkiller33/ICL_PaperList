@@ -265,6 +265,10 @@ This section contains the pilot works that might contributes to the influence fa
 
    *Jiaxi Yang, Binyuan Hui, Min Yang, Binhua Li, Fei Huang, Yongbin Li*.  [[pdf](https://arxiv.org/abs/2305.13016)], [[project](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/deep-thinking)], [[demo](https://huggingface.co/spaces/huybery/deep-thinking)], 2023.05 ![](https://img.shields.io/badge/ArXiv-FAEFCA) ![](https://img.shields.io/badge/New-EAD8D9)
 
+10. **Do pretrained Transformers Really Learn In-context by Gradient Descent?** ![](https://img.shields.io/badge/algorithm-DCE7F1)
+
+   *Lingfeng Shen, Aayush Mishra, Daniel Khashabi*.  [[pdf](https://arxiv.org/abs/2310.08540)], [[project](https://github.com/shadowkiller33/in-context_learning)], 2023.10 ![](https://img.shields.io/badge/ArXiv-FAEFCA) ![](https://img.shields.io/badge/New-EAD8D9)
+
 
 ### Evaluation and Resources
 
